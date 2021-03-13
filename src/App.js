@@ -23,7 +23,7 @@ function App() {
     return (
       <Body>
         
-        <Titulo>MSN mensseger</Titulo>
+        <Titulo>MSN messenger</Titulo>
         
         <EnvioMensagem />
        
